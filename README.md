@@ -7,10 +7,16 @@
     <p>Gabriel Speck - 562513</p>
     <p>Marcos - 566451</p>
     <p>João Victor - 563433</p>
+    <h3>Tecnologias Usadas:</h3>
+    <ul>
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>github</li>
+        <li>git</li>
+    </ul>
     <h4>Critérios corrigidos</h4>
     <br>
     <ol>
-        <li>
         <h5>Imagens quebradas e cores erradas;</h5>
         <p> Tanto o logotipo quanto as fotos de cada membro da equipe estavam quebradas, nós tivemos de alterar o url no código das imagens para uma que realmente funcione. Já a questão da cor simplesmente alteramos o hexdecimal do rodapé de vermelho para o azul assim como foi solicitado.</p>
         </li>
