@@ -33,15 +33,15 @@
     <ol>
         <li>
         <h5>Um texto sobre a equipe:</h5>
-        <p>Feito.</p>
+        <p>Foi feito um texto dizendo um pouco mais sobre a empresa e a própria equipe.</p>
         </li>
         <li>
         <h5>Uma seção de contato:</h5>
-        <p>Feito.</p>
+        <p>Uma seção própria para os contatos da empresa como e-mail, what'sapp e o horário que estão atendendo. .</p>
         </li>
         <li>
         <h5>Redes sociais ao rodapé:</h5>
-        <p>Feito.</p>
+        <p>Foi adicionado o instagram e o linkedin da empresa no rodapé.</p>
         </li>
     </ol>
 </body>
